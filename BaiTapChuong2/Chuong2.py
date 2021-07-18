@@ -1,0 +1,25 @@
+i1 = 2
+i2 = 5
+i3 = -3
+d1 = 2.0
+d2 = 5.0
+d3 = -0.5
+print("câu a = ", i1 + (i2 * i3))
+print("câu b = ", i1 * (i2 + i3))
+print("câu c = ", i1 / (i2 + i3))
+print("câu d = ", i1 // (i2 + i3))
+print("câu e = ", i1 / i2 * i3)
+print("câu f = ", i1 // i2 + i3)
+print("câu g = ", 3 + 4 + 5 / 3)
+print("câu h = ", 3 + 4 + 5 // 3)
+print("câu i = ", (3 + 4 + 5) / 3)
+print("câu j = ", (3 + 4 + 5) // 3)
+print("câu k = ", d1 + (d2 * d3))
+print("câu l = ", d1 + d2 * d3)
+print("câu m = ", d1 / d2 - d3)
+print("câu n = ", d1 / (d2 - d3))
+print("câu o = ", d1 + d2 + d3 / 3)
+print("câu p = ", (d1 + d2 + d3) / 3)
+print("câu q = ", d1 + d2 + (d3 / 3))
+print("câu r = ", 3 * (d1 + d2) * (d1 - d3))
+
